@@ -10,6 +10,8 @@
 
 ## 5. Commit changes
 
-## 6. Push to online repository
+## 6. Merge into main
 
-## 7. Open a Pull Request to the original repository
+## 7. Push to online repository
+
+## 8. Open a Pull Request to the original repository
